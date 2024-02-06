@@ -19,9 +19,6 @@ import java.awt.Toolkit;
  */
 public class Main_Frame extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Main_Frame
-     */
     public Main_Frame() {
         initComponents();
         Toolkit.getDefaultToolkit().beep();
